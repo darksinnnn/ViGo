@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Primary brand color. -->
+    <item name="colorPrimary" type="color">@color/my_primary</item>
+    <item name="colorPrimaryVariant" type="color">@color/my_primary</item>
+    <item name="colorOnPrimary" type="color">@color/white</item>
+    <!-- Secondary brand color. -->
+    <item name="colorSecondary" type="color">@color/my_secondary</item>
+    <item name="colorSecondaryVariant" type="color">@color/my_secondary</item>
+    <item name="colorOnSecondary" type="color">@color/black</item>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ViGo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <!-- Status bar color. -->
+
+</resources>

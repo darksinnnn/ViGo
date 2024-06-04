@@ -1,0 +1,6 @@
+com\ex\vigo\VigoApplication.class
+com\ex\vigo\repo\UserProfileRepository.class
+com\ex\vigo\service\LoginService.class
+com\ex\vigo\entities\UserProfile.class
+com\ex\vigo\model\LoginModel.class
+com\ex\vigo\controller\MainController.class
